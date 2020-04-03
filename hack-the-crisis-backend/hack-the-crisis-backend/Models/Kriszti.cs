@@ -6,5 +6,6 @@ namespace hack_the_crisis_backend.Models
         public Kriszti()
         {
         }
+        public string MyName { get; set; }
     }
 }
