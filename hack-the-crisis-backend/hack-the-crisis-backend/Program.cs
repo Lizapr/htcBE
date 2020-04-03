@@ -24,3 +24,4 @@ namespace hack_the_crisis_backend
                 });
     }
 }
+
